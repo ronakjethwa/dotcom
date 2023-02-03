@@ -1,6 +1,6 @@
 # dotcom website
 
-## ronakjethwa.com
+## https://ronakjethwa.com
 
 Amidst the chaos of all the frameworks cluster, I'm chosing to keep the site operational with traditional HTML/CSS code for now.
 
