@@ -1,4 +1,4 @@
-# dotcom website
+# dotcom site
 
 ## https://ronakjethwa.com
 
