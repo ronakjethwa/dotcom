@@ -128,11 +128,11 @@ header,
 		}
 		
 		a:hover {
-			background: linear-gradient(180deg, transparent 70%, black 100%);
+			background: linear-gradient(180deg, transparent 98%, black 100%);
 		}
 		
 		b a:hover {
-			background: linear-gradient(180deg, transparent 70%, black 100%);
+			background: linear-gradient(180deg, transparent 98%, black 100%);
 		}
 		
 		b a {
@@ -145,7 +145,7 @@ header,
 		}
 		
 		.social-links a:hover {
-			background: linear-gradient(180deg, transparent 70%, black 100%);
+			background: linear-gradient(180deg, transparent 98%, black 100%);
 		}
 		
 		.social-links a {
