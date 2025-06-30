@@ -102,3 +102,7 @@ header,
         padding-right: 3rem;
       }
     }
+
+    .social-links a {
+      margin: 0 1rem;
+    }
